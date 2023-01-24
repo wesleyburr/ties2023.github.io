@@ -2,7 +2,7 @@ body {margin:0; font-size:13px; font-family: Verdana, Helvetica, sans-serif; col
 
 div.wrapper {position:relative; max-width:900px; margin:0px auto 0px auto; text-align:left; }
 
-div.content {padding:240px 0px 20px; line-height:normal; min-height:600px}
+div.content {padding:10px 0px 20px; line-height:normal; min-height:600px}
 div.footer {width:850px; height:16px; margin:0px; padding:0px; text-align:left; font-size:10px; line-height:14px; color:#048}
 
 a {color: #f00; text-decoration: none;}
